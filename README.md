@@ -1,3 +1,5 @@
-# speed-test
+# Algorithm Performance Speed-Up more than 100 times!
 
-## this file introduces different kinds of methods that could promote the Python running speed.
+
+> This file introduces different kinds of methods that could promote the Python running speed.
+
